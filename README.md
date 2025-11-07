@@ -1,4 +1,5 @@
 # TradeTally `v2.1.2 20250711`
+- cloned from [TradeTally](https://github.com/GeneBO98/tradetally)
 A comprehensive trading journal and analytics platform built with Vue.js frontend and Node.js backend. Track your trades, analyze performance, and gain insights into your trading patterns across multiple brokers.
 
 ## Features
@@ -44,6 +45,3 @@ docker-compose up -d
 cd backend
 npm run migrate
 ```
-
-## Reference and external source
-- [TradeTally](https://github.com/GeneBO98/tradetally)
